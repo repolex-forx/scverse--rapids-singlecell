@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "rapids-singlecell",
+  "versions": [
+    {
+      "commit": "a948cc20730782b09dfcdf589209bc8ab0c868a8",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:56:30.173468+00:00"
+    }
+  ]
+}
